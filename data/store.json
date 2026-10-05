@@ -1,0 +1,83 @@
+{
+  "evaluations": [],
+  "inspectionRequests": [],
+  "evaluators": [
+    {
+      "id": "mgr-sairam",
+      "name": "T. SAI RAM",
+      "role": "BUSINESS OWNER / MANAGER",
+      "city": "Hyderabad, Telangana",
+      "phone": "9951696943",
+      "whatsapp": "9951696943",
+      "email": "sairam@sairamauto.in",
+      "specialisations": [
+        "Business Operations",
+        "Dealer Procurement",
+        "Executive Valuation Review"
+      ],
+      "completedInspections": 0,
+      "isVerified": true
+    },
+    {
+      "id": "eval-suresh",
+      "name": "T. SURESH",
+      "role": "SENIOR MOST SECOND AND CAR EVALUATOR",
+      "status": "TRUSTED EVALUATOR",
+      "city": "Hyderabad, Telangana",
+      "phone": "9951696943",
+      "whatsapp": "9951696943",
+      "email": "suresh.evaluator@sairamauto.in",
+      "specialisations": [
+        "Structural Pillar & Chassis Alignment",
+        "Paint Depth Gauge Micrometer Scan",
+        "Engine Compression & Hoist Inspection",
+        "OBD-II Diagnostic Scan",
+        "Flood & Water Submersion Analysis"
+      ],
+      "availability": "Mon - Sat (9:00 AM - 7:00 PM)",
+      "completedInspections": 0,
+      "isVerified": true
+    }
+  ],
+  "settings": {
+    "businessProfile": {
+      "companyName": "Sai Ram AutoAnalytics",
+      "registeredEntity": "Sai Ram Automotive Services LLP",
+      "dealershipId": "SR-HYD-01",
+      "ownerName": "T. SAI RAM",
+      "phone": "+91 99516 96943",
+      "email": "procurement@sairamauto.in",
+      "address": "Plot 42, Road No. 36, Jubilee Hills / Gachibowli Outer Ring Hub, Hyderabad, Telangana 500033",
+      "gstin": "36AAACS4821M1ZH",
+      "authorizedInspectionHubs": "Hyderabad (Jubilee Hills & Gachibowli)",
+      "reportDisclaimer": "Photographs alone cannot determine hidden mechanical condition with certainty. Physical inspection verifies what photographs cannot. Indicative wholesale valuation for dealer procurement."
+    },
+    "trustedEvaluator": {
+      "name": "T. SURESH",
+      "role": "SENIOR MOST SECOND AND CAR EVALUATOR",
+      "phone": "9951696943",
+      "whatsapp": "9951696943",
+      "location": "Hyderabad, Telangana",
+      "specialisation": "Structural Pillar & Chassis Alignment, Paint Depth Gauge Micrometer Scan, Flood & Engine Analysis",
+      "availability": "Mon - Sat (9:00 AM - 7:00 PM)",
+      "profilePhoto": "",
+      "status": "TRUSTED EVALUATOR"
+    },
+    "valuationRules": {
+      "dealerMarginTargetPercent": 9.5,
+      "minNegotiationBufferINR": 20000,
+      "paintPanelRefinishCostINR": 6500,
+      "tyrePerUnitAllowanceINR": 7000,
+      "waterExposureBufferPercent": 6.5,
+      "secondOwnerDepreciationPercent": 4.5
+    },
+    "marketAdjustments": {
+      "hyderabadMultiplier": 1.02,
+      "bangaloreMultiplier": 1.04,
+      "mumbaiMultiplier": 0.98,
+      "delhiNcrMultiplier": 0.95,
+      "chennaiMultiplier": 1.01
+    },
+    "overrideAuditLogs": []
+  }
+}

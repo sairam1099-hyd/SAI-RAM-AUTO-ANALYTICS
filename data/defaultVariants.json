@@ -1,0 +1,5202 @@
+[
+  {
+    "id": "maruti-swift-gen3-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "LXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 599000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Brake Assist",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen3-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "VXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 699000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "SmartPlay Dock Audio",
+      "Steering Mounted Controls",
+      "Rear Defogger",
+      "Body Colored Handles"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen3-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "ZXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 799000,
+    "tier": "Top",
+    "keyFeatures": [
+      "15-inch Alloy Wheels",
+      "7-inch Touchscreen",
+      "Push Button Start",
+      "Auto Climate Control"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen3-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "ZXi+",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 889000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "LED Projector Headlamps with DRLs",
+      "Cruise Control",
+      "Reverse Camera",
+      "Precision Cut Alloys"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen4-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "LXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 649000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ESP with Hill Hold",
+      "Remote Keyless Entry",
+      "All Power Windows"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen4-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "VXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 729000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Touchscreen",
+      "Wireless Android Auto/CarPlay",
+      "Steering Audio Controls",
+      "Electrically Adjustable ORVMs"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen4-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "ZXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 829000,
+    "tier": "Top",
+    "keyFeatures": [
+      "15-inch Painted Alloys",
+      "LED DRLs",
+      "Wireless Phone Charger",
+      "Rear AC Vents"
+    ]
+  },
+  {
+    "id": "maruti-swift-gen4-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "ZXi+",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 905000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "9-inch SmartPlay Pro+ Screen",
+      "Arkamy Surround Sound",
+      "Cruise Control",
+      "Dual-Tone Roof Option"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen3-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "LXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 651000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Brake Assist",
+      "Rear Rear Air Vents (late models)"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen3-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "VXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 744000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Audio System with Bluetooth",
+      "Steering Audio Controls",
+      "Rear AC Vents",
+      "Rear Armrest"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen3-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "ZXi",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 817000,
+    "tier": "Top",
+    "keyFeatures": [
+      "15-inch Alloys",
+      "7-inch SmartPlay Studio",
+      "Push Button Start",
+      "Auto Climate Control"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen3-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "3rd Gen (2017-2024)",
+    "variant": "ZXi+",
+    "yearStart": 2017,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 896000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Cruise Control",
+      "Precision Cut Alloys",
+      "Reverse Camera",
+      "LED Projector Headlamps"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen4-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "LXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 679000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ESC with Hill Hold",
+      "Rear Defogger",
+      "Projector Headlamps"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen4-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "VXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 779000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch SmartPlay Screen",
+      "Rear AC Vents",
+      "Rear Armrest with Cupholders",
+      "Steering Audio Controls"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen4-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "ZXi",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 889000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof (Segment First)",
+      "Wireless Charger",
+      "15-inch Alloys",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "maruti-dzire-gen4-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "generation": "4th Gen (2024-2025)",
+    "variant": "ZXi+",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 969000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "360-Degree Camera",
+      "9-inch HD Touchscreen",
+      "Connected Car Tech (Suzuki Connect)",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-sigma",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Sigma",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1099000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ESP with Hill Hold",
+      "Auto AC with Rear Vents",
+      "Keyless Push Start",
+      "17-inch Wheels"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-delta",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Delta",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1220000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch SmartPlay Pro Touchscreen",
+      "Cruise Control",
+      "Reverse Camera with Sensors",
+      "Suzuki Connect"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-zeta",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Zeta",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1401000,
+    "tier": "Top",
+    "keyFeatures": [
+      "6 Airbags",
+      "LED Projector Headlamps",
+      "17-inch Dual-Tone Precision Cut Alloys",
+      "Auto Fold ORVMs"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-alpha",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Alpha",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1551000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "360 View Camera",
+      "Leatherette Seats",
+      "Available ALLGRIP AWD System"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-zeta-plus-hybrid",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Zeta+ (Strong Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1843000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Intelligent Electric Hybrid (EV Mode)",
+      "Panoramic Sunroof",
+      "Head-Up Display (HUD)",
+      "Wireless Charging"
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-alpha-plus-hybrid",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Alpha+ (Strong Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1993000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Ventilated Front Seats",
+      "360 HD Camera",
+      "Full Digital Cluster",
+      "Puddle Lamps & Premium Leatherette"
+    ]
+  },
+  {
+    "id": "maruti-brezza-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "LXi",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 834000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Front Airbags",
+      "ESP with Hill Hold Assist",
+      "Rear AC Vents",
+      "Keyless Entry"
+    ]
+  },
+  {
+    "id": "maruti-brezza-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "VXi",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 970000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch SmartPlay Studio",
+      "Steering Audio Controls",
+      "Auto Climate Control",
+      "Rear Defogger"
+    ]
+  },
+  {
+    "id": "maruti-brezza-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "ZXi",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1115000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "16-inch Painted Alloys",
+      "LED Headlamps",
+      "Dual LED DRLs"
+    ]
+  },
+  {
+    "id": "maruti-brezza-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "ZXi+",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1270000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "360 View Camera",
+      "Head-Up Display (HUD)",
+      "9-inch HD Screen",
+      "Wireless Charging",
+      "Dual Tone Exterior"
+    ]
+  },
+  {
+    "id": "maruti-baleno-sigma",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "Sigma",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 666000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "Automatic Climate Control",
+      "Projector Headlamps",
+      "Rear Defogger"
+    ]
+  },
+  {
+    "id": "maruti-baleno-delta",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "Delta",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 750000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Touchscreen",
+      "Android Auto & Apple CarPlay",
+      "Steering Controls",
+      "Electrically Folding ORVMs"
+    ]
+  },
+  {
+    "id": "maruti-baleno-zeta",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "Zeta",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 843000,
+    "tier": "Top",
+    "keyFeatures": [
+      "6 Airbags",
+      "16-inch Precision Cut Alloys",
+      "Push Button Start",
+      "Rear AC Vents"
+    ]
+  },
+  {
+    "id": "maruti-baleno-alpha",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "Alpha",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 938000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "360 View Camera",
+      "Head-Up Display (HUD)",
+      "9-inch SmartPlay Pro+ Audio",
+      "LED Fog Lamps",
+      "UV Cut Glass"
+    ]
+  },
+  {
+    "id": "maruti-fronx-sigma",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "Sigma",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 751000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ESP with Hill Hold",
+      "Automatic Climate Control",
+      "Keyless Entry"
+    ]
+  },
+  {
+    "id": "maruti-fronx-delta",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "Delta",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 832000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch SmartPlay Touchscreen",
+      "Wireless CarPlay/Android Auto",
+      "Steering Controls",
+      "Electrically Folding ORVMs"
+    ]
+  },
+  {
+    "id": "maruti-fronx-delta-plus",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "Delta+",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 877000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "LED Multi-Reflector Headlamps",
+      "LED DRLs",
+      "16-inch Painted Alloy Wheels"
+    ]
+  },
+  {
+    "id": "maruti-fronx-zeta",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "Zeta (Turbo)",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1055000,
+    "tier": "Top",
+    "keyFeatures": [
+      "1.0L Turbo Boosterjet Engine",
+      "6 Airbags",
+      "Paddle Shifters (AT)",
+      "Push Button Start",
+      "Rear AC Vents"
+    ]
+  },
+  {
+    "id": "maruti-fronx-alpha",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "Alpha (Turbo)",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1147000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "360 View Camera",
+      "Head-Up Display",
+      "9-inch HD Screen",
+      "Precision Cut Alloys",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "maruti-ertiga-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "LXi",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 869000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "Projector Headlamps",
+      "Manual AC with Rear Vents",
+      "ISOFIX Child Mounts"
+    ]
+  },
+  {
+    "id": "maruti-ertiga-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "VXi",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 983000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "2nd Row Roof Mounted AC",
+      "Audio System with 4 Speakers",
+      "Steering Mounted Controls",
+      "Remote Keyless Entry"
+    ]
+  },
+  {
+    "id": "maruti-ertiga-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "ZXi",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1093000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch SmartPlay Pro",
+      "Push Button Start",
+      "Auto AC",
+      "15-inch Alloy Wheels"
+    ]
+  },
+  {
+    "id": "maruti-ertiga-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "ZXi+",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1163000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "4 Airbags",
+      "Rear Parking Camera",
+      "Cruise Control",
+      "Auto Headlamps",
+      "Leather-Wrapped Steering"
+    ]
+  },
+  {
+    "id": "maruti-wagonr-lxi",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "generation": "3rd Gen (2019-2025)",
+    "variant": "LXi",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 554000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Front Power Windows",
+      "Central Locking"
+    ]
+  },
+  {
+    "id": "maruti-wagonr-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "generation": "3rd Gen (2019-2025)",
+    "variant": "VXi",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 600000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "SmartPlay Dock",
+      "Tilt Steering",
+      "Steering Wheel Controls",
+      "Electrically Adjustable ORVMs"
+    ]
+  },
+  {
+    "id": "maruti-wagonr-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "generation": "3rd Gen (2019-2025)",
+    "variant": "ZXi",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 628000,
+    "tier": "Top",
+    "keyFeatures": [
+      "1.2L Engine Option",
+      "7-inch Touchscreen",
+      "Apple CarPlay / Android Auto",
+      "Rear Wiper & Washer"
+    ]
+  },
+  {
+    "id": "maruti-wagonr-zxi-plus",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "generation": "3rd Gen (2019-2025)",
+    "variant": "ZXi+",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 688000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "14-inch Black Alloy Wheels",
+      "Dual-Tone Roof",
+      "Front Fog Lamps",
+      "Keyless Push Button (later models)"
+    ]
+  },
+  {
+    "id": "maruti-ciaz-sigma",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "generation": "Facelift (2018-2025)",
+    "variant": "Sigma",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 940000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "Projector Headlamps",
+      "Manual AC with Rear AC Vents",
+      "Smart Hybrid Tech"
+    ]
+  },
+  {
+    "id": "maruti-ciaz-delta",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "generation": "Facelift (2018-2025)",
+    "variant": "Delta",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1010000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "15-inch Alloys",
+      "Audio System",
+      "Cruise Control",
+      "Front Fog Lamps"
+    ]
+  },
+  {
+    "id": "maruti-ciaz-zeta",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "generation": "Facelift (2018-2025)",
+    "variant": "Zeta",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1040000,
+    "tier": "Top",
+    "keyFeatures": [
+      "LED Projector Headlamps & DRLs",
+      "Push Button Start",
+      "Auto Climate Control",
+      "Reverse Camera"
+    ]
+  },
+  {
+    "id": "maruti-ciaz-alpha",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "generation": "Facelift (2018-2025)",
+    "variant": "Alpha",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1119000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "16-inch Precision Alloys",
+      "7-inch Touchscreen Navigation",
+      "Leatherette Upholstery",
+      "Auto Headlamps"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen1-e",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "1st Gen (2015-2020)",
+    "variant": "E",
+    "yearStart": 2015,
+    "yearEnd": 2020,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 999000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Manual AC",
+      "Front & Rear Power Windows"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen1-ex",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "1st Gen (2015-2020)",
+    "variant": "EX",
+    "yearStart": 2015,
+    "yearEnd": 2020,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1085000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "5-inch Touchscreen Audio",
+      "Steering Mounted Controls",
+      "Front Fog Lamps",
+      "LED DRLs"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen1-s",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "1st Gen (2015-2020)",
+    "variant": "S",
+    "yearStart": 2015,
+    "yearEnd": 2020,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1195000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Rear AC Vents",
+      "Reverse Parking Sensors & Camera",
+      "Roof Rails",
+      "Rear Defogger"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen1-sx",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "1st Gen (2015-2020)",
+    "variant": "SX",
+    "yearStart": 2015,
+    "yearEnd": 2020,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1360000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch AVN Touchscreen",
+      "17-inch Diamond Cut Alloys",
+      "Push Button Start",
+      "Auto Climate Control"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen1-sx-o",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "1st Gen (2015-2020)",
+    "variant": "SX(O)",
+    "yearStart": 2015,
+    "yearEnd": 2020,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1530000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "6 Airbags",
+      "Electric Sunroof",
+      "Ventilated Front Seats (late models)",
+      "Wireless Charging"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-e",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "E",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1100000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "All 4 Disc Brakes",
+      "ESC, VSM & HAC",
+      "Dual-Tone Interior"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-ex",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "EX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1221000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen with Android Auto / Apple CarPlay",
+      "Shark Fin Antenna",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-s",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "S",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1343000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "16-inch Styled Wheels",
+      "Rear Window Sunshade",
+      "Cruise Control",
+      "Rear Parking Camera"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-so",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "S(O)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1436000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "17-inch Black Alloys",
+      "Push Button Start",
+      "Dual-Zone Auto AC"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-sx",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "SX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1530000,
+    "tier": "Top",
+    "keyFeatures": [
+      "10.25-inch HD Infotainment Screen",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging",
+      "BlueLink Connected Tech"
+    ]
+  },
+  {
+    "id": "hyundai-creta-gen2-sxo",
+    "make": "Hyundai",
+    "model": "Creta",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "SX(O)",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "CVT",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1730000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS Safety Suite",
+      "Ventilated Front Seats",
+      "Bose 8-Speaker Premium Sound",
+      "360 Surround Monitor"
+    ]
+  },
+  {
+    "id": "hyundai-venue-e",
+    "make": "Hyundai",
+    "model": "Venue",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "E",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 794000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard (late models)",
+      "ABS with EBD",
+      "Central Locking",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "hyundai-venue-s",
+    "make": "Hyundai",
+    "model": "Venue",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "S",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 911000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Wireless Apple CarPlay & Android Auto",
+      "Rear AC Vents",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "hyundai-venue-so",
+    "make": "Hyundai",
+    "model": "Venue",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "S(O)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1000000,
+    "tier": "Top",
+    "keyFeatures": [
+      "LED Projector Headlamps with DRLs",
+      "Cornering Lamps",
+      "Digital Cluster",
+      "Rear Camera"
+    ]
+  },
+  {
+    "id": "hyundai-venue-sx",
+    "make": "Hyundai",
+    "model": "Venue",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "SX",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1105000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "16-inch Diamond Cut Alloys",
+      "Push Button Start",
+      "Auto Climate Control"
+    ]
+  },
+  {
+    "id": "hyundai-venue-sxo",
+    "make": "Hyundai",
+    "model": "Venue",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "SX(O)",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1244000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 1 ADAS Suite",
+      "Ambient Lighting",
+      "Air Purifier",
+      "BlueLink Connected Car Tech",
+      "Wireless Charger"
+    ]
+  },
+  {
+    "id": "hyundai-i20-era",
+    "make": "Hyundai",
+    "model": "i20",
+    "generation": "3rd Gen (2020-2025)",
+    "variant": "Era",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 704000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ABS with EBD",
+      "ESC, HAC",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "hyundai-i20-magna",
+    "make": "Hyundai",
+    "model": "i20",
+    "generation": "3rd Gen (2020-2025)",
+    "variant": "Magna",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 775000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Rear AC Vents",
+      "Steering Audio Controls",
+      "Electrically Folding ORVMs"
+    ]
+  },
+  {
+    "id": "hyundai-i20-sportz",
+    "make": "Hyundai",
+    "model": "i20",
+    "generation": "3rd Gen (2020-2025)",
+    "variant": "Sportz",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 838000,
+    "tier": "Top",
+    "keyFeatures": [
+      "16-inch Dual Tone Styled Wheels",
+      "Rear Camera",
+      "Cruise Control",
+      "Digital Instrument Cluster"
+    ]
+  },
+  {
+    "id": "hyundai-i20-asta",
+    "make": "Hyundai",
+    "model": "i20",
+    "generation": "3rd Gen (2020-2025)",
+    "variant": "Asta",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 934000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "LED Headlamps & DRLs",
+      "Smart Key with Push Button",
+      "Wireless Charger"
+    ]
+  },
+  {
+    "id": "hyundai-i20-asta-o",
+    "make": "Hyundai",
+    "model": "i20",
+    "generation": "3rd Gen (2020-2025)",
+    "variant": "Asta(O)",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 998000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "10.25-inch Touchscreen AVN",
+      "Bose 7-Speaker Audio",
+      "BlueLink Connected System",
+      "Burgundy Interior Highlights"
+    ]
+  },
+  {
+    "id": "hyundai-nios-era",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Era",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 592000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ABS with EBD",
+      "Central Locking",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "hyundai-nios-magna",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Magna",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 678000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Audio System with Bluetooth",
+      "Steering Controls",
+      "Rear AC Vents",
+      "Remote Keyless Entry"
+    ]
+  },
+  {
+    "id": "hyundai-nios-sportz",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Sportz",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 736000,
+    "tier": "Top",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Rear Parking Camera",
+      "Automatic Climate Control"
+    ]
+  },
+  {
+    "id": "hyundai-nios-asta",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Asta",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 795000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "15-inch Diamond Cut Alloys",
+      "Projector Headlamps",
+      "Push Button Start",
+      "Wireless Phone Charger"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen5-s",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "5th Gen (2017-2023)",
+    "variant": "S",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 998000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "Rear AC Vents",
+      "5-inch Touchscreen Audio",
+      "Steering Audio Controls"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen5-sx",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "5th Gen (2017-2023)",
+    "variant": "SX",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1120000,
+    "tier": "Top",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Electric Sunroof",
+      "16-inch Diamond Cut Alloys",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen5-sxo",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "5th Gen (2017-2023)",
+    "variant": "SX(O)",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1280000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "6 Airbags",
+      "Ventilated Front Seats",
+      "Wireless Phone Charger",
+      "Smart Trunk Release",
+      "BlueLink"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen6-ex",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "6th Gen (2023-2025)",
+    "variant": "EX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1100000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ESC with Hill Hold",
+      "Rear AC Vents",
+      "Height Adjustable Driver Seat"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen6-s",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "6th Gen (2023-2025)",
+    "variant": "S",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1199000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Digital Cluster",
+      "Rear Camera",
+      "15-inch Alloys"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen6-sx",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "6th Gen (2023-2025)",
+    "variant": "SX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1302000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "16-inch Black Alloys",
+      "Front Parking Sensors",
+      "Wireless Charging"
+    ]
+  },
+  {
+    "id": "hyundai-verna-gen6-sxo",
+    "make": "Hyundai",
+    "model": "Verna",
+    "generation": "6th Gen (2023-2025)",
+    "variant": "SX(O)",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1470000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS Suite",
+      "10.25-inch Dual Curved Screens",
+      "Heated & Ventilated Front Seats",
+      "Bose 8-Speaker Audio"
+    ]
+  },
+  {
+    "id": "hyundai-exter-ex",
+    "make": "Hyundai",
+    "model": "Exter",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "EX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 613000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ABS with EBD",
+      "Digital Cluster",
+      "Central Locking"
+    ]
+  },
+  {
+    "id": "hyundai-exter-s",
+    "make": "Hyundai",
+    "model": "Exter",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "S",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 750000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Android Auto & Apple CarPlay",
+      "Rear AC Vents",
+      "Electrically Adjustable Mirrors"
+    ]
+  },
+  {
+    "id": "hyundai-exter-sx",
+    "make": "Hyundai",
+    "model": "Exter",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "SX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 823000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "Projector Headlamps with H-DRLs",
+      "Rear Camera",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "hyundai-exter-sxo",
+    "make": "Hyundai",
+    "model": "Exter",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "SX(O)",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 887000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Dual Dashcam (Front & Rear)",
+      "15-inch Diamond Cut Alloys",
+      "Auto Climate Control",
+      "Wireless Charger"
+    ]
+  },
+  {
+    "id": "hyundai-alcazar-prestige",
+    "make": "Hyundai",
+    "model": "Alcazar",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Prestige",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1678000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "10.25-inch Touchscreen",
+      "LED Headlamps",
+      "6/7 Seater Configuration"
+    ]
+  },
+  {
+    "id": "hyundai-alcazar-platinum",
+    "make": "Hyundai",
+    "model": "Alcazar",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Platinum",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1868000,
+    "tier": "Top",
+    "keyFeatures": [
+      "10.25-inch Digital Supervision Cluster",
+      "360 Surround View Monitor",
+      "Bose 8-Speaker Audio",
+      "Blind View Monitor"
+    ]
+  },
+  {
+    "id": "hyundai-alcazar-signature",
+    "make": "Hyundai",
+    "model": "Alcazar",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Signature",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1999000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Ventilated 1st & 2nd Row Seats",
+      "Level 2 ADAS Suite",
+      "Dual Wireless Chargers",
+      "Air Purifier"
+    ]
+  },
+  {
+    "id": "hyundai-tucson-platinum",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "generation": "4th Gen (2022-2025)",
+    "variant": "Platinum",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2902000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "10.25-inch Navigation Screen",
+      "6 Airbags",
+      "Dual-Zone AC",
+      "Power Tailgate"
+    ]
+  },
+  {
+    "id": "hyundai-tucson-signature",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "generation": "4th Gen (2022-2025)",
+    "variant": "Signature",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 3125000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Hyundai SmartSense Level 2 ADAS (19 Features)",
+      "HTRAC All-Wheel Drive",
+      "Heated & Ventilated Seats",
+      "Bose Audio"
+    ]
+  },
+  {
+    "id": "tata-nexon-xe",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Phase 1 (2017-2023)",
+    "variant": "XE",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 780000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Projector Headlamps",
+      "Drive Modes (Eco, City, Sport)"
+    ]
+  },
+  {
+    "id": "tata-nexon-xm",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Phase 1 (2017-2023)",
+    "variant": "XM",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 890000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Harman 4-Speaker Audio",
+      "Remote Central Locking",
+      "Roof Rails",
+      "Power Windows"
+    ]
+  },
+  {
+    "id": "tata-nexon-xms",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Phase 1 (2017-2023)",
+    "variant": "XMS",
+    "yearStart": 2018,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 950000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "Auto Headlamps",
+      "Rain Sensing Wipers",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "tata-nexon-xz",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Phase 1 (2017-2023)",
+    "variant": "XZ",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 1110000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Floating Touchscreen",
+      "Rear Camera with Guidelines",
+      "8-Speaker Harman System",
+      "Shark Fin Antenna"
+    ]
+  },
+  {
+    "id": "tata-nexon-xz-plus",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Phase 1 (2017-2023)",
+    "variant": "XZ+",
+    "yearStart": 2018,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 1230000,
+    "tier": "Top",
+    "keyFeatures": [
+      "16-inch Diamond Cut Alloys",
+      "Electric Sunroof",
+      "Auto Climate Control",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "tata-nexon-facelift-smart",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Smart",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 815000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "LED Headlamps & DRLs",
+      "Multi Drive Modes",
+      "Electronic Stability Program (ESP)"
+    ]
+  },
+  {
+    "id": "tata-nexon-facelift-pure",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Pure",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 980000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Touchscreen by Harman",
+      "Rear AC Vents",
+      "Wheel Covers",
+      "Voice Commands"
+    ]
+  },
+  {
+    "id": "tata-nexon-facelift-creative",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Creative",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1120000,
+    "tier": "Top",
+    "keyFeatures": [
+      "16-inch Alloy Wheels",
+      "Push Button Start",
+      "7-inch Digital Cluster",
+      "Rear Camera"
+    ]
+  },
+  {
+    "id": "tata-nexon-facelift-fearless-plus",
+    "make": "Tata Motors",
+    "model": "Nexon",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Fearless+ S",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT",
+      "AMT"
+    ],
+    "baseExShowroomINR": 1540000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "10.25-inch Floating Touchscreen",
+      "360 HD Camera",
+      "Ventilated Front Seats",
+      "JBL Audio with Subwoofer"
+    ]
+  },
+  {
+    "id": "tata-punch-pure",
+    "make": "Tata Motors",
+    "model": "Punch",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Pure",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 613000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Front Power Windows",
+      "Tilt Steering"
+    ]
+  },
+  {
+    "id": "tata-punch-adventure",
+    "make": "Tata Motors",
+    "model": "Punch",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Adventure",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 700000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Floating 3.5-inch Audio",
+      "4 Speakers",
+      "Steering Mounted Controls",
+      "Anti-Glare IRVM"
+    ]
+  },
+  {
+    "id": "tata-punch-accomplished",
+    "make": "Tata Motors",
+    "model": "Punch",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Accomplished",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 785000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Push Button Start",
+      "Reverse Camera"
+    ]
+  },
+  {
+    "id": "tata-punch-creative",
+    "make": "Tata Motors",
+    "model": "Punch",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Creative",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 885000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Projector Headlamps & LED DRLs",
+      "16-inch Diamond Cut Alloys",
+      "Auto Climate Control",
+      "7-inch TFT Cluster"
+    ]
+  },
+  {
+    "id": "tata-harrier-smart",
+    "make": "Tata Motors",
+    "model": "Harrier",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Smart",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1549000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "LED Projector Headlamps & Connected DRLs",
+      "ESP with 17 Safety Functions"
+    ]
+  },
+  {
+    "id": "tata-harrier-pure",
+    "make": "Tata Motors",
+    "model": "Harrier",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Pure",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1700000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "10.25-inch Touchscreen",
+      "Digital 10.25-inch Driver Display",
+      "Reverse Camera",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "tata-harrier-adventure",
+    "make": "Tata Motors",
+    "model": "Harrier",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Adventure",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2020000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "17-inch Diamond Cut Alloys",
+      "Terrain Response Modes (Normal, Rough, Wet)",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "tata-harrier-fearless-plus",
+    "make": "Tata Motors",
+    "model": "Harrier",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Fearless+",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2500000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS Suite (11 features)",
+      "12.3-inch Cinematic Screen",
+      "Ventilated Front Seats",
+      "JBL 10-Speaker Audio with Subwoofer"
+    ]
+  },
+  {
+    "id": "tata-safari-smart",
+    "make": "Tata Motors",
+    "model": "Safari",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Smart",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1619000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "Connected LED DRLs & Taillamps",
+      "Tilt & Telescopic Steering",
+      "All 4 Disc Brakes"
+    ]
+  },
+  {
+    "id": "tata-safari-pure",
+    "make": "Tata Motors",
+    "model": "Safari",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Pure",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1770000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "10.25-inch Touchscreen",
+      "10.25-inch Digital Cluster",
+      "Rear Camera",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "tata-safari-adventure",
+    "make": "Tata Motors",
+    "model": "Safari",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Adventure",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2100000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Panoramic Sunroof with Mood Lighting",
+      "18-inch Alloys",
+      "Terrain Response Modes",
+      "Wireless Charging"
+    ]
+  },
+  {
+    "id": "tata-safari-accomplished-plus",
+    "make": "Tata Motors",
+    "model": "Safari",
+    "generation": "Facelift (2023-2025)",
+    "variant": "Accomplished+",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2650000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS Suite",
+      "Ventilated 1st & 2nd Row Seats (6S)",
+      "Gesture-Controlled Power Tailgate",
+      "JBL 10-Speaker Audio"
+    ]
+  },
+  {
+    "id": "tata-altroz-xe",
+    "make": "Tata Motors",
+    "model": "Altroz",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "XE",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 665000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD & CSC",
+      "Front Power Windows",
+      "90-Degree Opening Doors"
+    ]
+  },
+  {
+    "id": "tata-altroz-xm",
+    "make": "Tata Motors",
+    "model": "Altroz",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "XM",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 700000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Harman Audio with 2 Speakers",
+      "Steering Mounted Audio Controls",
+      "Rear Parcel Shelf",
+      "Electrically Folding ORVMs"
+    ]
+  },
+  {
+    "id": "tata-altroz-xt",
+    "make": "Tata Motors",
+    "model": "Altroz",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "XT",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 810000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Touchscreen by Harman",
+      "Reverse Camera",
+      "Push Button Start",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "tata-altroz-xz-plus",
+    "make": "Tata Motors",
+    "model": "Altroz",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "XZ+",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 960000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Voice-Activated Sunroof",
+      "16-inch Laser Cut Alloys",
+      "Auto Climate Control",
+      "Wireless Phone Charger"
+    ]
+  },
+  {
+    "id": "tata-tiago-xe",
+    "make": "Tata Motors",
+    "model": "Tiago",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "XE",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 565000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Body Coloured Bumpers",
+      "Manual Air Conditioning"
+    ]
+  },
+  {
+    "id": "tata-tiago-xt",
+    "make": "Tata Motors",
+    "model": "Tiago",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "XT",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 640000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Harman Audio with 4 Speakers",
+      "Steering Mounted Controls",
+      "Rear Parking Sensors",
+      "Central Locking"
+    ]
+  },
+  {
+    "id": "tata-tiago-xz-plus",
+    "make": "Tata Motors",
+    "model": "Tiago",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "XZ+",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 750000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Touchscreen by Harman",
+      "15-inch Dual-Tone Alloys",
+      "Projector Headlamps with LED DRLs",
+      "Reverse Camera"
+    ]
+  },
+  {
+    "id": "tata-tigor-xe",
+    "make": "Tata Motors",
+    "model": "Tigor",
+    "generation": "1st Gen (2017-2025)",
+    "variant": "XE",
+    "yearStart": 2017,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 630000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "Manual AC",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "tata-tigor-xm",
+    "make": "Tata Motors",
+    "model": "Tigor",
+    "generation": "1st Gen (2017-2025)",
+    "variant": "XM",
+    "yearStart": 2017,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 680000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Harman Sound System",
+      "Steering Mounted Controls",
+      "Remote Keyless Entry",
+      "All Power Windows"
+    ]
+  },
+  {
+    "id": "tata-tigor-xz-plus",
+    "make": "Tata Motors",
+    "model": "Tigor",
+    "generation": "1st Gen (2017-2025)",
+    "variant": "XZ+",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 795000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Touchscreen",
+      "Push Button Start",
+      "Auto Climate Control",
+      "15-inch Dual-Tone Alloys"
+    ]
+  },
+  {
+    "id": "mahindra-thar-ax-opt",
+    "make": "Mahindra",
+    "model": "Thar",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "AX Opt",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1285000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Roll Cage Standard",
+      "Dual Airbags",
+      "Rear Parking Sensors",
+      "Convertible / Hard Top"
+    ]
+  },
+  {
+    "id": "mahindra-thar-lx",
+    "make": "Mahindra",
+    "model": "Thar",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "LX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1450000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Touchscreen with Adventure Stats",
+      "18-inch Deep Silver Alloys",
+      "Brake Locking Differential (BLD)",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "mahindra-thar-earth-edition",
+    "make": "Mahindra",
+    "model": "Thar",
+    "generation": "2nd Gen (2020-2025)",
+    "variant": "Earth Edition",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1615000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Desert Fury Matte Finish",
+      "Custom Leatherette Dune Badging",
+      "Beige Interior Accents",
+      "4x4 Shift-on-Fly Transfer Case"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z2",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Z2",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1385000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "All 4 Disc Brakes",
+      "Touchscreen Infotainment (Petrol)",
+      "Electric Power Steering"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z4",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Z4",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1545000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "Android Auto & Apple CarPlay",
+      "Rear AC Vents with Controls",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z6",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Z6",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1685000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Sunroof",
+      "AdrenoX Connected Car Tech",
+      "Built-in Amazon Alexa",
+      "7-inch Colour TFT Cluster"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z8",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Z8",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1875000,
+    "tier": "Top",
+    "keyFeatures": [
+      "4XPLOR Intelligent 4WD System",
+      "6 Airbags",
+      "Coffee Black Leatherette Seats",
+      "Dual-Zone FATC"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z8-l",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Z8 L",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2065000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Sony 12-Speaker 3D Immersive Audio",
+      "Front Camera & Sensors",
+      "Wireless Charging",
+      "6-Way Power Driver Seat"
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-mx",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "MX",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1399000,
+    "tier": "Base",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "7-inch Digital Cluster",
+      "Dual Airbags",
+      "Smart Door Handles",
+      "Rear AC Vents"
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-ax3",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "AX3",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1639000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Dual 10.25-inch Superscreen Displays",
+      "Wireless Android Auto/CarPlay",
+      "LED DRLs & Front Fog Lamps"
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-ax5",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "AX5",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1769000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Skyroof (Panoramic Sunroof)",
+      "17-inch Diamond Cut Alloys",
+      "Curtain Airbags",
+      "Sequential LED Indicators"
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-ax7",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "AX7",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1949000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Level 2 ADAS (Adaptive Cruise, Lane Keep, AEB)",
+      "6-Way Power Seat with Memory",
+      "Dual Zone FATC",
+      "18-inch Alloys"
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-ax7-l",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "AX7 L",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2399000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Sony 12-Speaker 3D Audio",
+      "360 Surround View",
+      "Blind View Monitor",
+      "Electronic Park Brake with Auto Hold",
+      "AWD Option"
+    ]
+  },
+  {
+    "id": "mahindra-bolero-b4",
+    "make": "Mahindra",
+    "model": "Bolero",
+    "generation": "B-Series (2020-2025)",
+    "variant": "B4",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 990000,
+    "tier": "Base",
+    "keyFeatures": [
+      "mHawk75 Diesel Engine",
+      "ABS with EBD",
+      "Driver Airbag",
+      "Micro-Hybrid Technology"
+    ]
+  },
+  {
+    "id": "mahindra-bolero-b6-opt",
+    "make": "Mahindra",
+    "model": "Bolero",
+    "generation": "B-Series (2020-2025)",
+    "variant": "B6(O)",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1091000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Static Bending Headlamps",
+      "Central Locking",
+      "Power Windows",
+      "Digital Instrument Cluster",
+      "Fabric Upholstery"
+    ]
+  },
+  {
+    "id": "mahindra-xuv300-w4",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "generation": "1st Gen (2019-2024)",
+    "variant": "W4",
+    "yearStart": 2019,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 799000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "All 4 Disc Brakes",
+      "Front & Rear Power Windows",
+      "Smart Steering Modes"
+    ]
+  },
+  {
+    "id": "mahindra-xuv300-w6",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "generation": "1st Gen (2019-2024)",
+    "variant": "W6",
+    "yearStart": 2019,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 1000000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Touchscreen Infotainment",
+      "Steering Mounted Controls",
+      "Wheel Covers",
+      "Follow-Me-Home Headlamps"
+    ]
+  },
+  {
+    "id": "mahindra-xuv300-w8-opt",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "generation": "1st Gen (2019-2024)",
+    "variant": "W8(O)",
+    "yearStart": 2019,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 1300000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "7 Airbags",
+      "17-inch Diamond Cut Alloys",
+      "Front Parking Sensors",
+      "Dual-Zone Climate Control"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-classic-s",
+    "make": "Mahindra",
+    "model": "Scorpio Classic",
+    "generation": "Classic (2022-2025)",
+    "variant": "S",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1362000,
+    "tier": "Base",
+    "keyFeatures": [
+      "2.2L Gen-2 mHawk Diesel",
+      "Dual Airbags",
+      "ABS",
+      "Rear Parking Sensors",
+      "LED Eyebrows"
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-classic-s11",
+    "make": "Mahindra",
+    "model": "Scorpio Classic",
+    "generation": "Classic (2022-2025)",
+    "variant": "S11",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1742000,
+    "tier": "Top",
+    "keyFeatures": [
+      "9-inch Touchscreen Infotainment",
+      "17-inch Diamond Cut Alloys",
+      "Projector Headlamps with DRLs",
+      "Auto AC",
+      "Faux Leather Upholstery"
+    ]
+  },
+  {
+    "id": "kia-seltos-hte",
+    "make": "Kia",
+    "model": "Seltos",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "HTE",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1090000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "All 4 Disc Brakes",
+      "Rear AC Vents",
+      "Front & Rear Skid Plates"
+    ]
+  },
+  {
+    "id": "kia-seltos-htk-plus",
+    "make": "Kia",
+    "model": "Seltos",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "HTK+",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1360000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Panoramic Sunroof",
+      "8-inch Touchscreen",
+      "LED DRLs & Fog Lamps",
+      "Smart Key with Remote Engine Start"
+    ]
+  },
+  {
+    "id": "kia-seltos-htx",
+    "make": "Kia",
+    "model": "Seltos",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "HTX",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1530000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Dual 10.25-inch Panoramic Displays",
+      "17-inch Crystal Cut Alloys",
+      "Leatherette Seats",
+      "Smart Pure Air Purifier"
+    ]
+  },
+  {
+    "id": "kia-seltos-gtx-plus",
+    "make": "Kia",
+    "model": "Seltos",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "GTX+",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "DCT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1940000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS (17 Autonomous Features)",
+      "360 Camera with Blind View Monitor",
+      "Ventilated Front Seats",
+      "Bose 8-Speaker Audio"
+    ]
+  },
+  {
+    "id": "kia-sonet-hte",
+    "make": "Kia",
+    "model": "Sonet",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "HTE",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 799000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "ESC & HAC",
+      "Rear AC Vents",
+      "Front Power Windows"
+    ]
+  },
+  {
+    "id": "kia-sonet-htk-plus",
+    "make": "Kia",
+    "model": "Sonet",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "HTK+",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 990000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "8-inch Touchscreen",
+      "Wireless Android Auto/CarPlay",
+      "Automatic Climate Control"
+    ]
+  },
+  {
+    "id": "kia-sonet-htx",
+    "make": "Kia",
+    "model": "Sonet",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "HTX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1150000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Crown Jewel LED Headlamps",
+      "16-inch Crystal Cut Alloys",
+      "Smart Key with Remote Start",
+      "Leatherette Upholstery"
+    ]
+  },
+  {
+    "id": "kia-sonet-gtx-plus",
+    "make": "Kia",
+    "model": "Sonet",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "GTX+",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "DCT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1455000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 1 ADAS with 10 Features",
+      "360 Camera with Blind View Monitor",
+      "Ventilated Front Seats",
+      "Bose 7-Speaker Audio"
+    ]
+  },
+  {
+    "id": "kia-carens-prestige",
+    "make": "Kia",
+    "model": "Carens",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Prestige",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1185000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen Audio",
+      "Rear View Camera",
+      "Roof Mounted AC Vents for 2nd & 3rd Row",
+      "6 Airbags Standard"
+    ]
+  },
+  {
+    "id": "kia-carens-luxury-plus",
+    "make": "Kia",
+    "model": "Carens",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Luxury Plus",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1765000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Sunroof",
+      "10.25-inch Touchscreen AVN",
+      "Ventilated Front Seats",
+      "Bose 8-Speaker Audio",
+      "Paddle Shifters"
+    ]
+  },
+  {
+    "id": "kia-carnival-limousine",
+    "make": "Kia",
+    "model": "Carnival",
+    "generation": "3rd/4th Gen (2020-2025)",
+    "variant": "Limousine",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 3500000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Dual Sunroofs",
+      "VIP Captain Lounge Seats with Leg Support",
+      "Power Sliding Doors",
+      "Harman Kardon Audio"
+    ]
+  },
+  {
+    "id": "toyota-innova-crysta-gx",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "GX",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1882000,
+    "tier": "Base",
+    "keyFeatures": [
+      "8-inch Display Audio",
+      "3 Airbags",
+      "Apple CarPlay / Android Auto",
+      "Hill Start Assist"
+    ]
+  },
+  {
+    "id": "toyota-innova-crysta-vx",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "VX",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 2384000,
+    "tier": "Top",
+    "keyFeatures": [
+      "LED Projector Headlamps",
+      "Auto Climate Control",
+      "Push Button Start",
+      "Seat Back Tables"
+    ]
+  },
+  {
+    "id": "toyota-innova-crysta-zx",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "generation": "1st Gen (2016-2025)",
+    "variant": "ZX",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2568000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "7 Airbags Standard",
+      "Leather Captain Seats with 8-Way Power Driver Seat",
+      "Cruise Control",
+      "17-inch Premium Alloys"
+    ]
+  },
+  {
+    "id": "toyota-innova-hycross-gx",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "GX",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT"
+    ],
+    "baseExShowroomINR": 1977000,
+    "tier": "Base",
+    "keyFeatures": [
+      "2.0L TNGA Petrol",
+      "8-inch Audio Screen",
+      "Push Button Start",
+      "16-inch Alloys"
+    ]
+  },
+  {
+    "id": "toyota-innova-hycross-vx-hybrid",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "VX (Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2597000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Self-Charging Strong Hybrid Electric Engine",
+      "360 Panoramic Camera",
+      "Paddle Shifters",
+      "Paddle AC Controls"
+    ]
+  },
+  {
+    "id": "toyota-innova-hycross-zx-o-hybrid",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "ZX(O) (Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 3098000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Toyota Safety Sense ADAS",
+      "Panoramic Sunroof",
+      "Powered Ottoman Captain Seats",
+      "JBL 9-Speaker Audio"
+    ]
+  },
+  {
+    "id": "toyota-fortuner-4x2",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "generation": "2nd Gen (2016-2025)",
+    "variant": "4x2 Standard",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 3593000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7 Airbags Standard",
+      "8-inch Touchscreen with Connected Tech",
+      "Power Tailgate",
+      "Ventilated Front Seats"
+    ]
+  },
+  {
+    "id": "toyota-fortuner-4x4",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "generation": "2nd Gen (2016-2025)",
+    "variant": "4x4 High-Range",
+    "yearStart": 2016,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 3893000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electronic 4x4 Shift Transfer Case",
+      "Auto Limited Slip Differential",
+      "Downhill Assist Control (DAC)",
+      "18-inch Alloys"
+    ]
+  },
+  {
+    "id": "toyota-fortuner-legender",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "generation": "2nd Gen (2016-2025)",
+    "variant": "Legender 4x4",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 4764000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Split Quad-LED Headlamps with Waterfall DRLs",
+      "Dual-Tone Black & Maroon Leather",
+      "Kick-Sensor Power Back Door",
+      "11 JBL Speakers"
+    ]
+  },
+  {
+    "id": "toyota-hyryder-e",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "E",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1114000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "Auto AC",
+      "Keyless Entry with Push Start",
+      "Rear Parking Sensors"
+    ]
+  },
+  {
+    "id": "toyota-hyryder-s",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "S",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1281000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Smart Playcast Touchscreen",
+      "Cruise Control",
+      "Rear Camera",
+      "Connected Tech"
+    ]
+  },
+  {
+    "id": "toyota-hyryder-v-hybrid",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "V (Strong Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1999000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Self-Charging Electric Hybrid",
+      "Panoramic Sunroof",
+      "Ventilated Leather Seats",
+      "360 Camera & HUD"
+    ]
+  },
+  {
+    "id": "toyota-glanza-s",
+    "make": "Toyota",
+    "model": "Glanza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "S",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 775000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "7-inch Audio Screen",
+      "Steering Controls",
+      "Rear Defogger",
+      "Electrically Folding Mirrors"
+    ]
+  },
+  {
+    "id": "toyota-glanza-v",
+    "make": "Toyota",
+    "model": "Glanza",
+    "generation": "2nd Gen (2022-2025)",
+    "variant": "V",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 978000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "360 Camera",
+      "Head-Up Display",
+      "9-inch HD Screen",
+      "16-inch Diamond Cut Alloys",
+      "6 Airbags"
+    ]
+  },
+  {
+    "id": "toyota-camry-hybrid",
+    "make": "Toyota",
+    "model": "Camry",
+    "generation": "8th Gen (2019-2025)",
+    "variant": "2.5 Hybrid",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 4617000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "4th Gen Hybrid System",
+      "9 Airbags",
+      "JBL 9-Speaker Audio",
+      "Reclining Rear Seats with Touch Control"
+    ]
+  },
+  {
+    "id": "honda-city-v",
+    "make": "Honda",
+    "model": "City",
+    "generation": "5th Gen (2020-2025)",
+    "variant": "V",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1270000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Advanced Touchscreen",
+      "4 Airbags",
+      "Paddle Shifters (CVT)",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "honda-city-vx",
+    "make": "Honda",
+    "model": "City",
+    "generation": "5th Gen (2020-2025)",
+    "variant": "VX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1392000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "6 Airbags",
+      "16-inch Diamond Cut Alloys",
+      "LaneWatch Camera"
+    ]
+  },
+  {
+    "id": "honda-city-zx",
+    "make": "Honda",
+    "model": "City",
+    "generation": "5th Gen (2020-2025)",
+    "variant": "ZX",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1510000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Honda Sensing ADAS Suite",
+      "Full LED Headlamps with 9 Array In-line DRLs",
+      "Leatherette Seats",
+      "Remote Engine Start"
+    ]
+  },
+  {
+    "id": "honda-city-ehev-hybrid",
+    "make": "Honda",
+    "model": "City",
+    "generation": "5th Gen (2022-2025)",
+    "variant": "e:HEV ZX (Hybrid)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1900000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Dual Motor Strong Hybrid System",
+      "Electronic Parking Brake with Auto Hold",
+      "Complete Honda Sensing ADAS Suite"
+    ]
+  },
+  {
+    "id": "honda-amaze-s",
+    "make": "Honda",
+    "model": "Amaze",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "S",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 787000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "Audio System with Bluetooth",
+      "Steering Audio Controls",
+      "Electrically Adjustable ORVMs",
+      "Rear Parking Sensors"
+    ]
+  },
+  {
+    "id": "honda-amaze-vx",
+    "make": "Honda",
+    "model": "Amaze",
+    "generation": "2nd Gen (2018-2025)",
+    "variant": "VX",
+    "yearStart": 2018,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 898000,
+    "tier": "Top",
+    "keyFeatures": [
+      "7-inch Touchscreen DIGIPAD 2.0",
+      "15-inch Diamond Cut Alloys",
+      "Auto Climate Control",
+      "Reverse Camera with Guidelines"
+    ]
+  },
+  {
+    "id": "honda-elevate-v",
+    "make": "Honda",
+    "model": "Elevate",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "V",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1231000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen Audio",
+      "Wireless Apple CarPlay & Android Auto",
+      "Reverse Parking Camera",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "honda-elevate-vx",
+    "make": "Honda",
+    "model": "Elevate",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "VX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1370000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "17-inch Dual-Tone Alloys",
+      "LED Projector Headlamps",
+      "LaneWatch Camera",
+      "7-inch TFT Meter"
+    ]
+  },
+  {
+    "id": "honda-elevate-zx",
+    "make": "Honda",
+    "model": "Elevate",
+    "generation": "1st Gen (2023-2025)",
+    "variant": "ZX",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1510000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Honda Sensing ADAS Suite",
+      "10.25-inch HD Touchscreen",
+      "6 Airbags",
+      "Brown Leatherette Upholstery"
+    ]
+  },
+  {
+    "id": "honda-wr-v-vx",
+    "make": "Honda",
+    "model": "WR-V",
+    "generation": "1st Gen (2017-2023)",
+    "variant": "VX",
+    "yearStart": 2017,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 989000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "DIGIPAD 2.0 Touchscreen",
+      "Cruise Control",
+      "16-inch Silver Alloys"
+    ]
+  },
+  {
+    "id": "honda-jazz-zx",
+    "make": "Honda",
+    "model": "Jazz",
+    "generation": "3rd Gen (2015-2023)",
+    "variant": "ZX",
+    "yearStart": 2015,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 940000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof with One-Touch",
+      "LED Headlamps & DRLs",
+      "7-inch Touchscreen",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "vw-taigun-comfortline",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Comfortline",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1170000,
+    "tier": "Base",
+    "keyFeatures": [
+      "1.0L TSI Turbo",
+      "6 Airbags Standard",
+      "7-inch Touchscreen",
+      "ESC, Multi-Collision Brakes"
+    ]
+  },
+  {
+    "id": "vw-taigun-highline",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Highline",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1388000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "10-inch VW Play Touchscreen",
+      "Wireless Apple CarPlay & Android Auto",
+      "16-inch Belmonte Alloys",
+      "Rear Camera"
+    ]
+  },
+  {
+    "id": "vw-taigun-topline",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Topline",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1618000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "8-inch Digital Cockpit",
+      "Ventilated Front Seats",
+      "17-inch Cassino Alloys"
+    ]
+  },
+  {
+    "id": "vw-taigun-gt-plus",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "GT Plus (1.5 TSI)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1896000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "1.5L TSI EVO with Active Cylinder Tech (ACT)",
+      "7-Speed DSG",
+      "Red Brake Calipers",
+      "Aluminium Pedals"
+    ]
+  },
+  {
+    "id": "vw-virtus-comfortline",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Comfortline",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1156000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "LED Headlamps & DRLs",
+      "7-inch Touchscreen",
+      "Electronic Stability Control"
+    ]
+  },
+  {
+    "id": "vw-virtus-highline",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Highline",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1358000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "10-inch VW Play Screen",
+      "16-inch Scimitar Alloys",
+      "Push Button Start",
+      "Rear Camera"
+    ]
+  },
+  {
+    "id": "vw-virtus-topline",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Topline",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1528000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "8-inch Digital Cockpit",
+      "Ventilated Front Seats",
+      "Auto-Dimming IRVM"
+    ]
+  },
+  {
+    "id": "vw-virtus-gt-plus",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "GT Plus (1.5 TSI)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1877000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "1.5L TSI EVO (150 PS / 250 Nm)",
+      "7-Speed DSG Dual Clutch",
+      "Rear Spoiler",
+      "Black Alloys with Red Calipers"
+    ]
+  },
+  {
+    "id": "vw-polo-highline-plus",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "generation": "5th Gen (2010-2022)",
+    "variant": "Highline Plus",
+    "yearStart": 2010,
+    "yearEnd": 2022,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 892000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Touchscreen with Apple CarPlay",
+      "16-inch Portago Alloys",
+      "Cruise Control",
+      "Rain-Sensing Wipers"
+    ]
+  },
+  {
+    "id": "vw-polo-gt-tsi",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "generation": "5th Gen (2010-2022)",
+    "variant": "GT TSI",
+    "yearStart": 2013,
+    "yearEnd": 2022,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1025000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "TSI Turbocharged Engine",
+      "GT Badging & Rear Spoiler",
+      "Sporty Fabric Seats",
+      "Electronic Stability Programme"
+    ]
+  },
+  {
+    "id": "vw-vento-highline-plus",
+    "make": "Volkswagen",
+    "model": "Vento",
+    "generation": "1st Gen (2010-2022)",
+    "variant": "Highline Plus",
+    "yearStart": 2010,
+    "yearEnd": 2022,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1340000,
+    "tier": "Top",
+    "keyFeatures": [
+      "LED Headlamps with DRLs",
+      "Touchscreen Infotainment",
+      "Rear AC Vents",
+      "16-inch Alloys"
+    ]
+  },
+  {
+    "id": "skoda-kushaq-active",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Active",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1189000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "7-inch Touchscreen",
+      "ESC Standard",
+      "Multi Collision Brake"
+    ]
+  },
+  {
+    "id": "skoda-kushaq-ambition",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Ambition",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1334000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "LED Headlamps & DRLs",
+      "16-inch Grus Alloys",
+      "Rear Camera",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "skoda-kushaq-style",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Style",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1589000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "10-inch Touchscreen",
+      "Ventilated Front Seats",
+      "17-inch Atlas Alloys"
+    ]
+  },
+  {
+    "id": "skoda-kushaq-monte-carlo",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Monte Carlo (1.5 TSI)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1831000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "1.5L TSI with 7-Speed DSG",
+      "Red Accents & Sporty Leatherette Seats",
+      "Virtual Cockpit",
+      "8-Speaker Subwoofer Sound"
+    ]
+  },
+  {
+    "id": "skoda-slavia-active",
+    "make": "Skoda",
+    "model": "Slavia",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Active",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 1153000,
+    "tier": "Base",
+    "keyFeatures": [
+      "6 Airbags Standard",
+      "7-inch Touchscreen",
+      "ESC",
+      "TPMS"
+    ]
+  },
+  {
+    "id": "skoda-slavia-ambition",
+    "make": "Skoda",
+    "model": "Slavia",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Ambition",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1314000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "16-inch Silver Alloys",
+      "Push Button Start",
+      "Rear View Camera",
+      "Paddle Shifters (AT)"
+    ]
+  },
+  {
+    "id": "skoda-slavia-style",
+    "make": "Skoda",
+    "model": "Slavia",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Style",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1535000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Electric Sunroof",
+      "10-inch Touchscreen",
+      "Ventilated Leatherette Seats",
+      "Virtual Cockpit"
+    ]
+  },
+  {
+    "id": "skoda-slavia-monte-carlo",
+    "make": "Skoda",
+    "model": "Slavia",
+    "generation": "1st Gen (2022-2025)",
+    "variant": "Monte Carlo (1.5 TSI)",
+    "yearStart": 2023,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "DCT"
+    ],
+    "baseExShowroomINR": 1753000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "1.5L TSI Turbo (150 PS)",
+      "Blacked-out Grille & Spoiler",
+      "Dark Red Dashboard Inserts",
+      "Skoda Sound System"
+    ]
+  },
+  {
+    "id": "skoda-octavia-style",
+    "make": "Skoda",
+    "model": "Octavia",
+    "generation": "4th Gen (2021-2023)",
+    "variant": "Style",
+    "yearStart": 2018,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT"
+    ],
+    "baseExShowroomINR": 2629000,
+    "tier": "Top",
+    "keyFeatures": [
+      "2.0L TSI Turbo (190 PS)",
+      "7-Speed DSG Shift-by-Wire",
+      "8 Airbags",
+      "Bi-LED Headlamps"
+    ]
+  },
+  {
+    "id": "skoda-octavia-lk",
+    "make": "Skoda",
+    "model": "Octavia",
+    "generation": "4th Gen (2021-2023)",
+    "variant": "L&K (Laurin & Klement)",
+    "yearStart": 2018,
+    "yearEnd": 2023,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT"
+    ],
+    "baseExShowroomINR": 2929000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Canton 12-Speaker Sound System",
+      "Park Assist Automated Parking",
+      "Virtual Cockpit",
+      "Alcantara Suedette Upholstery"
+    ]
+  },
+  {
+    "id": "skoda-superb-lk",
+    "make": "Skoda",
+    "model": "Superb",
+    "generation": "3rd Gen (2016-2024)",
+    "variant": "L&K (Laurin & Klement)",
+    "yearStart": 2016,
+    "yearEnd": 2024,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT"
+    ],
+    "baseExShowroomINR": 3729000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Dynamic Chassis Control",
+      "3-Zone Climatronic",
+      "11 Airbags",
+      "Canton 610W Audio System"
+    ]
+  },
+  {
+    "id": "skoda-rapid-style",
+    "make": "Skoda",
+    "model": "Rapid",
+    "generation": "1st Gen (2011-2021)",
+    "variant": "Style",
+    "yearStart": 2011,
+    "yearEnd": 2021,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1149000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Projector Headlamps with LED DRLs",
+      "Touchscreen Infotainment",
+      "Cruise Control",
+      "16-inch Clubber Alloys"
+    ]
+  },
+  {
+    "id": "mg-hector-shine-pro",
+    "make": "MG Motor",
+    "model": "Hector",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Shine Pro",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1599000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "14-inch Portrait HD Touchscreen",
+      "Single Pane Sunroof",
+      "LED Headlamps & DRLs",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "mg-hector-sharp-pro",
+    "make": "MG Motor",
+    "model": "Hector",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "Sharp Pro",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 2030000,
+    "tier": "Top",
+    "keyFeatures": [
+      "Dual Pane Panoramic Sunroof",
+      "Ventilated Front Seats",
+      "360 HD View Camera",
+      "Infinity 8-Speaker Audio"
+    ]
+  },
+  {
+    "id": "mg-hector-savvy-pro",
+    "make": "MG Motor",
+    "model": "Hector",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Savvy Pro (ADAS)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT"
+    ],
+    "baseExShowroomINR": 2220000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 Autonomous ADAS (11 features)",
+      "Traffic Jam Assist",
+      "Turn Indicator Auto Headlamps",
+      "Power Tailgate"
+    ]
+  },
+  {
+    "id": "mg-astor-super",
+    "make": "MG Motor",
+    "model": "Astor",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Super",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1168000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "10.1-inch HD Touchscreen",
+      "LED Projector Headlamps",
+      "Electronic Power Steering with 3 Modes"
+    ]
+  },
+  {
+    "id": "mg-astor-savvy",
+    "make": "MG Motor",
+    "model": "Astor",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "Savvy (AI & ADAS)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1720000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Personal AI Robot Assistant on Dashboard",
+      "Level 2 ADAS (14 features)",
+      "Panoramic Sunroof",
+      "Sangria Red Leather"
+    ]
+  },
+  {
+    "id": "mg-zs-ev-executive",
+    "make": "MG Motor",
+    "model": "ZS EV",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "Executive (50.3 kWh)",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 1898000,
+    "tier": "Base",
+    "keyFeatures": [
+      "50.3 kWh Prismatic Battery (461 KM Range)",
+      "6 Airbags",
+      "All 4 Disc Brakes",
+      "Push Button Start"
+    ]
+  },
+  {
+    "id": "mg-zs-ev-essence",
+    "make": "MG Motor",
+    "model": "ZS EV",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "Essence (ADAS)",
+    "yearStart": 2022,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 2544000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "Level 2 ADAS Suite",
+      "Dual Pane Panoramic Sunroof",
+      "360 Camera",
+      "Wireless Phone Charging",
+      "i-SMART with 75+ Features"
+    ]
+  },
+  {
+    "id": "mg-gloster-savvy",
+    "make": "MG Motor",
+    "model": "Gloster",
+    "generation": "1st Gen (2020-2025)",
+    "variant": "Savvy 4x4 (Twin Turbo)",
+    "yearStart": 2020,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "baseExShowroomINR": 4387000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "2.0L Twin-Turbo Diesel (215 PS / 480 Nm)",
+      "Intelligent 4WD with 7 Terrain Modes",
+      "Level 1 ADAS",
+      "Massaging Driver Seat"
+    ]
+  },
+  {
+    "id": "renault-kwid-rxe",
+    "make": "Renault",
+    "model": "Kwid",
+    "generation": "1st Gen (2015-2025)",
+    "variant": "RXE",
+    "yearStart": 2015,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "baseExShowroomINR": 470000,
+    "tier": "Base",
+    "keyFeatures": [
+      "Dual Airbags",
+      "ABS with EBD",
+      "LED DRLs",
+      "Digital Instrument Cluster"
+    ]
+  },
+  {
+    "id": "renault-kwid-climber",
+    "make": "Renault",
+    "model": "Kwid",
+    "generation": "1st Gen (2017-2025)",
+    "variant": "Climber",
+    "yearStart": 2017,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 588000,
+    "tier": "Top",
+    "keyFeatures": [
+      "8-inch MediaNAV Touchscreen",
+      "Roof Rails with Orange Accents",
+      "Rear Parking Camera",
+      "Electrically Adjustable ORVMs"
+    ]
+  },
+  {
+    "id": "renault-kiger-rxt",
+    "make": "Renault",
+    "model": "Kiger",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "RXT",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 750000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch Touchscreen",
+      "4 Airbags",
+      "16-inch Styled Wheels",
+      "Rear AC Vents",
+      "Steering Controls"
+    ]
+  },
+  {
+    "id": "renault-kiger-rxz",
+    "make": "Renault",
+    "model": "Kiger",
+    "generation": "1st Gen (2021-2025)",
+    "variant": "RXZ (Turbo)",
+    "yearStart": 2021,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 880000,
+    "tier": "Premium",
+    "keyFeatures": [
+      "1.0L Turbo (100 PS)",
+      "16-inch Diamond Cut Alloys",
+      "Tri-Octa Pure Vision LED Headlamps",
+      "Wireless Smartphone Replication"
+    ]
+  },
+  {
+    "id": "renault-triber-rxt",
+    "make": "Renault",
+    "model": "Triber",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "RXT",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 761000,
+    "tier": "Mid",
+    "keyFeatures": [
+      "8-inch MediaNAV Screen",
+      "Roof Mounted AC Vents for 2nd & 3rd Row",
+      "Modular 7 Seating",
+      "Electric ORVMs"
+    ]
+  },
+  {
+    "id": "renault-triber-rxz",
+    "make": "Renault",
+    "model": "Triber",
+    "generation": "1st Gen (2019-2025)",
+    "variant": "RXZ",
+    "yearStart": 2019,
+    "yearEnd": 2025,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "AMT"
+    ],
+    "baseExShowroomINR": 823000,
+    "tier": "Top",
+    "keyFeatures": [
+      "4 Airbags",
+      "Keyless Smart Access Card with Push Start",
+      "15-inch Flex Wheels",
+      "LED Instrument Cluster"
+    ]
+  },
+  {
+    "id": "renault-duster-rxz",
+    "make": "Renault",
+    "model": "Duster",
+    "generation": "1st Gen (2012-2022)",
+    "variant": "RxZ (Turbo)",
+    "yearStart": 2012,
+    "yearEnd": 2022,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "CVT"
+    ],
+    "baseExShowroomINR": 1259000,
+    "tier": "Top",
+    "keyFeatures": [
+      "1.3L Turbo Petrol (156 PS)",
+      "Projector Headlamps with DRLs",
+      "7-inch Touchscreen",
+      "Cruise Control",
+      "Hill Start Assist"
+    ]
+  }
+]
